@@ -1,5 +1,4 @@
-# A Minimalist and Simple Grub Theme CachyOS (good with any DE)
-## This is a forked Version of the [**diegons490/cachyos-grub-theme**](https://github.com/diegons490/cachyos-grub-theme) with slightly more minimalism and changed Background Image.
+# A Minimalist and Simple Grub Theme
 
 ### Installation Guide :
 - Copy this Github Repository by this Command 
@@ -15,3 +14,6 @@ cd ~/Minimalist-Grub-theme
 sudo bash setup.sh
 ```
 - The Simple Installation Menu will appear.
+---
+
+Main Credit Goes to the ```diegons490``` .
